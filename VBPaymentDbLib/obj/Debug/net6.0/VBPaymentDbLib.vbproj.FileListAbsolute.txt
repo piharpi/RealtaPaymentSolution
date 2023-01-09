@@ -1,0 +1,12 @@
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\bin\Debug\net6.0\VBPaymentDbLib.deps.json
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\bin\Debug\net6.0\VBPaymentDbLib.dll
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\bin\Debug\net6.0\VBPaymentDbLib.pdb
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\obj\Debug\net6.0\VBPaymentDbLib.vbproj.AssemblyReference.cache
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\obj\Debug\net6.0\VBPaymentDbLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\obj\Debug\net6.0\VBPaymentDbLib.AssemblyInfoInputs.cache
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\obj\Debug\net6.0\VBPaymentDbLib.AssemblyInfo.vb
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\obj\Debug\net6.0\VBPaymentDbLib.vbproj.CoreCompileInputs.cache
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\obj\Debug\net6.0\VBPaymentDbLib.dll
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\obj\Debug\net6.0\refint\VBPaymentDbLib.dll
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\obj\Debug\net6.0\VBPaymentDbLib.pdb
+C:\Users\Code.id\Documents\Harpi\Bootcamp\RealtaPaymentSolution\VBPaymentDbLib\obj\Debug\net6.0\ref\VBPaymentDbLib.dll
